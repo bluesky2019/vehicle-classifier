@@ -40,6 +40,12 @@ pip install -r requirements.txt
 
 ### 2. Preparação de Dados
 
+Você tem duas opções:
+
+#### Opção 1: Usar a Base de Dados Incluída (Recomendado) 🎯
+A base de dados `vehicle_data.csv` já está disponibilizada no projeto com **1500 registros** balanceados (375 de cada tipo de veículo). Basta prosseguir para o próximo passo!
+
+#### Opção 2: Criar sua Própria Base de Dados
 Crie um arquivo `vehicle_data.csv` com a seguinte estrutura:
 
 ```csv
@@ -189,7 +195,7 @@ vehicle-classifier/
 ├── requirements.txt            # Dependências
 ├── README.md                   # Este arquivo
 ├── example_usage.py            # Exemplo de uso
-├── vehicle_data.csv            # Dados de entrada (você deve criar)
+├── vehicle_data.csv            # Base de dados (1500 registros)
 ├── vehicle_classifier_model.pkl # Modelo treinado (gerado)
 └── tests/
     └── test_classifier.py      # Testes unitários
@@ -234,6 +240,7 @@ Caminhão,8000,7,3,2.4,5000,200,120,4.2
 
 ### Erro: "Arquivo 'vehicle_data.csv' não encontrado"
 - Crie o arquivo `vehicle_data.csv` no mesmo diretório que `train_model.py`
+- Ou use a base de dados incluída no projeto
 
 ### Acurácia baixa
 - Verifique a qualidade dos dados
