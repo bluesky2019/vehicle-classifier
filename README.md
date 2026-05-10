@@ -1,5 +1,14 @@
 # 🚗 Vehicle Classifier - Classificação de Veículos com Machine Learning
 
+[![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Classification](https://img.shields.io/badge/Classification-00B4D8?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_classification)
+[![License](https://img.shields.io/badge/License-Open%20Source-green?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](README.md)
+
 Um algoritmo completo de Machine Learning para classificar veículos em quatro categorias: **Carros**, **Motos**, **Ônibus** e **Caminhões**.
 
 ## 📋 Descrição
@@ -276,7 +285,7 @@ Gilnei Azambuja Borges.
 
 ## 🔗 Conecte-se
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@gilnei809/gilnei-azambuja-borges-analista-de-dados-e-administrador-de-banco-de-dados-8774175b0e46)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@gilnei809/gilnei-azambuja-borges-analista-de-dados-e-administrador-de[...])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilnei-azambuja-borges-1a83432b)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/bluesky2019)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/gilneiborges)
